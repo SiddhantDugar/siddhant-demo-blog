@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Siddhant's Personal Blog`,
     author: {
-      name: `Siddhant Dugar',
+      name: `Siddhant Dugar`,
       summary: `who is pursuing Computer Engineering at Delhi Technological University and is keen on using technology for building useful things.`,
-    },
+  },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://siddhantdugar.netlify.app//`,
+    siteUrl: `https://siddhantdugar.netlify.app/`,
     
   },
   plugins: [
